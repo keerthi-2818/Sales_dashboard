@@ -1,0 +1,51 @@
+Order_ID,Order_Date,Customer_Name,Region,State,Product_Name,Category,Quantity,Sales,Revenue,Profit
+1001,2025-02-15,Customer_1,North,CA,Laptop,Electronics,1,1200.50,1450.75,550.25
+1002,2025-02-16,Customer_2,South,TX,Mouse,Peripherals,3,89.97,119.96,44.99
+1003,2025-02-17,Customer_3,East,NY,Keyboard,Peripherals,2,149.98,199.97,74.99
+1004,2025-02-18,Customer_4,West,FL,Monitor,Electronics,1,349.99,449.99,199.99
+1005,2025-02-19,Customer_5,Central,PA,Headphones,Accessories,2,119.98,159.97,59.99
+1006,2025-02-20,Customer_6,North,IL,Webcam,Electronics,1,89.99,119.99,49.99
+1007,2025-02-21,Customer_7,South,OH,USB Cable,Accessories,5,24.95,34.95,14.95
+1008,2025-02-22,Customer_8,East,GA,HDMI Cable,Accessories,4,39.96,53.28,23.28
+1009,2025-02-23,Customer_9,West,NC,Desk Lamp,Accessories,1,79.99,99.99,39.99
+1010,2025-02-24,Customer_10,Central,MI,Phone Stand,Accessories,2,39.98,53.28,23.28
+1011,2025-02-25,Customer_11,North,NJ,Laptop,Electronics,1,1200.50,1450.75,550.25
+1012,2025-02-26,Customer_12,South,VA,Mouse,Peripherals,3,89.97,119.96,44.99
+1013,2025-02-27,Customer_13,East,WA,Keyboard,Peripherals,2,149.98,199.97,74.99
+1014,2025-02-28,Customer_14,West,AZ,Monitor,Electronics,1,349.99,449.99,199.99
+1015,2025-03-01,Customer_15,Central,MA,Headphones,Accessories,2,119.98,159.97,59.99
+1016,2025-03-02,Customer_16,North,CA,Webcam,Electronics,1,89.99,119.99,49.99
+1017,2025-03-03,Customer_17,South,TX,USB Cable,Accessories,5,24.95,34.95,14.95
+1018,2025-03-04,Customer_18,East,NY,HDMI Cable,Accessories,4,39.96,53.28,23.28
+1019,2025-03-05,Customer_19,West,FL,Desk Lamp,Accessories,1,79.99,99.99,39.99
+1020,2025-03-06,Customer_20,Central,PA,Phone Stand,Accessories,2,39.98,53.28,23.28
+1021,2025-03-07,Customer_1,North,IL,Laptop,Electronics,1,1200.50,1450.75,550.25
+1022,2025-03-08,Customer_2,South,OH,Mouse,Peripherals,3,89.97,119.96,44.99
+1023,2025-03-09,Customer_3,East,GA,Keyboard,Peripherals,2,149.98,199.97,74.99
+1024,2025-03-10,Customer_4,West,NC,Monitor,Electronics,1,349.99,449.99,199.99
+1025,2025-03-11,Customer_5,Central,MI,Headphones,Accessories,2,119.98,159.97,59.99
+1026,2025-03-12,Customer_6,North,NJ,Webcam,Electronics,1,89.99,119.99,49.99
+1027,2025-03-13,Customer_7,South,VA,USB Cable,Accessories,5,24.95,34.95,14.95
+1028,2025-03-14,Customer_8,East,WA,HDMI Cable,Accessories,4,39.96,53.28,23.28
+1029,2025-03-15,Customer_9,West,AZ,Desk Lamp,Accessories,1,79.99,99.99,39.99
+1030,2025-03-16,Customer_10,Central,MA,Phone Stand,Accessories,2,39.98,53.28,23.28
+1031,2025-03-17,Customer_11,North,CA,Laptop,Electronics,1,1200.50,1450.75,550.25
+1032,2025-03-18,Customer_12,South,TX,Mouse,Peripherals,3,89.97,119.96,44.99
+1033,2025-03-19,Customer_13,East,NY,Keyboard,Peripherals,2,149.98,199.97,74.99
+1034,2025-03-20,Customer_14,West,FL,Monitor,Electronics,1,349.99,449.99,199.99
+1035,2025-03-21,Customer_15,Central,PA,Headphones,Accessories,2,119.98,159.97,59.99
+1036,2025-03-22,Customer_16,North,IL,Webcam,Electronics,1,89.99,119.99,49.99
+1037,2025-03-23,Customer_17,South,OH,USB Cable,Accessories,5,24.95,34.95,14.95
+1038,2025-03-24,Customer_18,East,GA,HDMI Cable,Accessories,4,39.96,53.28,23.28
+1039,2025-03-25,Customer_19,West,NC,Desk Lamp,Accessories,1,79.99,99.99,39.99
+1040,2025-03-26,Customer_20,Central,MI,Phone Stand,Accessories,2,39.98,53.28,23.28
+1041,2025-03-27,Customer_1,North,NJ,Laptop,Electronics,1,1200.50,1450.75,550.25
+1042,2025-03-28,Customer_2,South,VA,Mouse,Peripherals,3,89.97,119.96,44.99
+1043,2025-03-29,Customer_3,East,WA,Keyboard,Peripherals,2,149.98,199.97,74.99
+1044,2025-03-30,Customer_4,West,AZ,Monitor,Electronics,1,349.99,449.99,199.99
+1045,2025-03-31,Customer_5,Central,MA,Headphones,Accessories,2,119.98,159.97,59.99
+1046,2025-04-01,Customer_6,North,CA,Webcam,Electronics,1,89.99,119.99,49.99
+1047,2025-04-02,Customer_7,South,TX,USB Cable,Accessories,5,24.95,34.95,14.95
+1048,2025-04-03,Customer_8,East,NY,HDMI Cable,Accessories,4,39.96,53.28,23.28
+1049,2025-04-04,Customer_9,West,FL,Desk Lamp,Accessories,1,79.99,99.99,39.99
+1050,2025-04-05,Customer_10,Central,PA,Phone Stand,Accessories,2,39.98,53.28,23.28
